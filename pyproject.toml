@@ -1,6 +1,6 @@
 [project]
 name = "livewrapped_sdk"
-version = "0.0.3"
+version = "0.0.4"
 description = "The official Python library for the livewrapped-sdk API"
 dynamic = ["readme"]
 license = "Apache-2.0"
@@ -8,7 +8,7 @@ authors = [
 { name = "Eivind Teig", email = "eivind.teig@gmail.com" },
 ]
 dependencies = [
-    "httpx>=0.23.0, <1",
+    "httpx>=0.23.0, <0.28.0",
     "pydantic>=1.9.0, <3",
     "typing-extensions>=4.7, <5",
     "anyio>=3.5.0, <5",

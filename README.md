@@ -14,12 +14,9 @@ The REST API documentation can be found on [api.livewrapped.com](https://api.liv
 ## Installation
 
 ```sh
-# install from this staging repo
-pip install git+ssh://git@github.com/eivl/livewrapped-sdk-python.git
+# install from pypi
+pip install livewrapped-sdk
 ```
-
-> [!NOTE]
-> Once this package is [published to PyPI](https://pypi.org), this will become: `pip install livewrapped_sdk`
 
 ## Usage
 
