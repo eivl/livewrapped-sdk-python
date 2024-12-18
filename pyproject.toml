@@ -1,6 +1,6 @@
 [project]
 name = "livewrapped_sdk"
-version = "0.0.2"
+version = "0.0.3"
 description = "The official Python library for the livewrapped-sdk API"
 dynamic = ["readme"]
 license = "Apache-2.0"
